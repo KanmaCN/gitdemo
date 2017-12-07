@@ -8,4 +8,3 @@ change 5 in master unadded
 
 test stash command
 
-push rollback
